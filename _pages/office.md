@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /teaching/
-title: Teaching
-description: Materials for courses you taught. Replace this text with your description.
+permalink: /office/
+title: Office Hours
+description: During the semester you can find me in my office 
 nav: true
 nav_order: 6
 ---
